@@ -1,0 +1,13 @@
+body {background-color: rgb (56, 182, 255)
+	text-align: justify;
+	text-decoration: italic;
+	font-family: Georgia, Times New Roman, Arial;}
+ol {text-decoration: bold;}
+li {text-decoration: italic}
+.main{ background-color: rgb(71, 237, 232);
+	font-family: Georgia, Times New Roman, Arial;
+	text-decoration: bold;}
+a:hover {background-color: rgb (129, 13, 191);}
+.clear {text-decoration: underline;
+}
+.text{text-decoration: italic}
